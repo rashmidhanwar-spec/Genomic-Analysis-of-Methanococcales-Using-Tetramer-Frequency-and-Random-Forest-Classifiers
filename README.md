@@ -1,0 +1,2 @@
+# Genomic-Analysis-of-Methanococcales-Using-Tetramer-Frequency-and-Random-Forest-Classifiers
+Archaea ML: Genomic Grammar Analysis Classifying Methanococcales genes vs. spacers using Random Forest &amp; k-mer frequency. Analyzed 5 NCBI genomes to see if environmental niches (thermophilic vs. mesophilic) affect "readability." Results show higher accuracy in extreme environments, suggesting distinct evolutionary codon biases. #Bioinformatics #ML
